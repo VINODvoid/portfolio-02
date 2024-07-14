@@ -205,13 +205,16 @@ export const socialMedia = [
     {
         id: 1,
         img: "/git.svg",
+        link: "https://github.com/VINODvoid",
     },
     {
         id: 2,
         img: "/twit.svg",
+        link: "https://twitter.com/kalki_kal",
     },
     {
         id: 3,
         img: "/link.svg",
+        link: "https://linkedin.com/in/kalkikal",
     },
 ];
